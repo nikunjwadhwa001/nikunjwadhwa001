@@ -1,40 +1,44 @@
 # Hi, I'm Nikunj Wadhwa 👋  
 
 🎓 B.Tech in Electronics & Communication Engineering  
-📊 Aspiring Data Analyst | 🌐 Web Developer | 🤖 AI & Automation Enthusiast  
+💻 Software Developer | 📊 Data Analyst | 🌐 Web Developer | 🤖 AI Enthusiast  
 
-I build data-driven solutions, dashboards, and AI-powered systems that solve real-world problems.  
-My work spans **data analytics, web development, AI applications, and digital marketing**.
-
----
-
-## 🔍 About Me
-
-- 📈 Strong foundation in **Data Analytics (SQL, Python, Power BI)**
-- 🌍 Built and deployed **live websites using WordPress**
-- 🤖 Working on **AI-based travel planning and automation platforms**
-- 📊 Hands-on experience with **real-world datasets (150K+ rows)**
-- 🎯 Interested in roles involving **analytics, product, and growth**
+I design, build, and analyze technology-driven solutions across **software development, data analytics, web platforms, and AI systems**.  
+My focus is on **scalable, production-ready applications** rather than demo projects.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-### 📊 Data Analytics
-- SQL (Joins, CTEs, Window Functions)
-- Python (Pandas, NumPy, Matplotlib)
-- Power BI (DAX, Interactive Dashboards)
-- Excel (Advanced formulas, Pivot Tables)
+### 💻 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🌐 Web & Marketing
-- WordPress (Live site development)
-- Google Ads (Campaign Design & Optimization)
-- SEO & Conversion Tracking
+### 🤖 AI & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI DAX](https://img.shields.io/badge/DAX-PowerBI-yellow?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-AI-blue?style=for-the-badge)
 
-### 🤖 AI & Automation
-- Prompt Engineering
-- AI Agents & Workflow Design
-- Computer Vision (PCB Component Detection – academic project)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikunjwadhwa001&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjwadhwa001&layout=compact&theme=default" height="160"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjwadhwa001&theme=default"/>
+</p>
 
 ---
 
@@ -42,43 +46,47 @@ My work spans **data analytics, web development, AI applications, and digital ma
 
 ### 🔹 Vendor Performance Analytics  
 📌 **SQL | Python | Power BI**  
-- Built an end-to-end data pipeline on 150,000+ sales & purchase records  
-- Optimized SQL queries for performance  
-- Designed interactive Power BI dashboards for vendor insights  
 
-🔗 Repository: https://github.com/nikunjwadhwa001/VendorAnalysis  
+- Built a complete analytics pipeline using **150,000+ records**  
+- Optimized SQL queries and improved processing performance  
+- Designed interactive Power BI dashboards  
+
+🔗 https://github.com/nikunjwadhwa001/VendorAnalysis  
 
 ---
 
-### 🔹 AI Travel Planning Platform (Planora)
+### 🔹 AI Travel Planning Platform – *Planora*  
 📌 **AI Systems | Prompt Engineering**  
-- Designed input-dependent destination recommendations  
-- Implemented budget-aware and inter-country trip logic  
-- Focused on realistic, non-demo AI behavior  
+
+- Designed a realistic AI travel planner with input-dependent outputs  
+- Implemented budget-aware and inter-country logic  
+- Focused on non-repetitive AI behavior  
 
 ---
 
-### 🔹 Business Website Development
-📌 **WordPress | Digital Marketing**  
-- Designed and deployed a complete business website  
-- Integrated analytics, SEO, and ad tracking  
-- Created detailed project documentation and reports  
+### 🔹 ELC Connect – Website & Software Development  
+📌 **WordPress | Web Development**  
+
+- Developed and maintained the **ELC Connect** platform  
+- Implemented responsive UI, SEO, analytics, and optimizations  
+- Delivered a production-ready website  
+
+🔗 https://github.com/nikunjwadhwa001/ELC-CONNECT  
 
 ---
 
-## 📈 What I’m Currently Learning
-- Advanced SQL & Query Optimization  
-- Business Analytics Case Studies  
-- AI Agents for Real-World Applications  
+## 🎯 Career Interests
+- Software Developer  
+- Data Analyst / Business Analyst  
+- Product & Analytics Roles  
+- AI & Automation Engineering  
 
 ---
 
 ## 🤝 Let’s Connect
-
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 📧 Email: *(add your professional email here)*  
-- 🌐 Portfolio / Website: *(optional)*  
+- 💼 LinkedIn: https://www.linkedin.com/in/nikunjwadhwa/
+- 📧 Email: nikunjwadhwa002@gmail.com 
 
 ---
 
-⭐ If you find my work useful, feel free to star the repositories!
+⭐ If you find my work useful, consider starring the repositories.
