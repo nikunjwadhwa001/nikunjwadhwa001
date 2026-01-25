@@ -2,12 +2,12 @@
 
 ### 👨‍💻 Electronics & Communication Engineer | Data Science & Full Stack Developer
 
-[cite_start]I am a final-year student at **Thapar Institute of Engineering and Technology** with a strong foundation in **C++ and Python**[cite: 4, 5, 44]. [cite_start]I bridge the gap between complex algorithms and real-world applications, ranging from **AI/ML circuit automation** to **scalable web portals**[cite: 27, 82].
+I am a final-year student at **Thapar Institute of Engineering and Technology** with a strong foundation in **C++ and Python**. I bridge the gap between complex algorithms and real-world applications, ranging from **AI/ML circuit automation** to **scalable web portals**.
 
-- [cite_start]🔭 I’m currently working on **ELC Connect**, a centralized portal for managing university facilities[cite: 86].
-- [cite_start]🎓 **Education:** B.E. in Electronics and Communication Engineering (CGPA: 7.86)[cite: 53].
+- 🔭 I’m currently working on **ELC Connect**, a centralized full-stack portal for managing university facilities.
+- 🎓 **Education:** B.E. in Electronics and Communication Engineering (CGPA: 7.86).
 - 👯 I’m looking to collaborate on **Full Stack Web Development** or **Machine Learning** projects.
-- [cite_start]🎵 **Fun Fact:** I'm a core member of the **SUR** music society, where I organize concerts and jam sessions[cite: 58, 68]!
+- 🎵 **Fun Fact:** I'm a core member of the **SUR** music society, where I organize concerts and jam sessions!
 
 ---
 
@@ -25,31 +25,31 @@
 ## 🚀 Featured Projects
 
 ### 🧠 **[ELC Summer Intern Project] AI Automation for Circuit Design**
-[cite_start]*Developed a Python-based ML tool to automate circuit layout design[cite: 24, 27].*
-- [cite_start]**Impact:** Reduced manual design time by **30%** for common circuit types[cite: 27].
-- [cite_start]**Tech:** Python, Machine Learning, Feature Extraction[cite: 27, 28].
-- [cite_start]**Results:** Achieved **70% accuracy** in identifying circuit components from over 500 schematics[cite: 28].
+*Developed a Python-based ML tool to automate circuit layout design.*
+- **Impact:** Reduced manual design time by **30%** for common circuit types.
+- **Tech:** Python, Machine Learning, Feature Extraction.
+- **Results:** Achieved **70% accuracy** in identifying circuit components from over 500 schematics.
 
 ### 🏫 **ELC Connect (Capstone)**
-[cite_start]*A centralized full-stack portal to manage 25+ rooms and facilities for 3,500+ students[cite: 86].*
-- [cite_start]**Tech:** MERN Stack (MongoDB, Express, React, Node), PostgreSQL, Firebase[cite: 86].
-- [cite_start]**Status:** Officially approved by Thapar administration; projected to reduce booking time by **60%**[cite: 87].
+*A centralized full-stack portal to manage 25+ rooms and facilities for 3,500+ students.*
+- **Tech:** MERN Stack (MongoDB, Express, React, Node), PostgreSQL, Firebase.
+- **Status:** Officially approved by Thapar administration; projected to reduce booking time by **60%**.
 
 ### 🎟️ **University Fest Ticketing System**
-[cite_start]*Scalable web-based booking portal for a major university fest[cite: 82].*
-- [cite_start]**Impact:** Handled **3,500+ registrations** and reduced check-in time by **40%**[cite: 82, 83].
-- [cite_start]**Tech:** Python (Django), HTML/CSS, SQLite, QR Code Generation[cite: 80, 83].
-- [cite_start]**Security:** Achieved a **99% successful verification rate** with unique QR codes[cite: 83].
+*Scalable web-based booking portal for a major university fest.*
+- **Impact:** Handled **3,500+ registrations** and reduced check-in time by **40%**.
+- **Tech:** Python (Django), HTML/CSS, SQLite, QR Code Generation.
+- **Security:** Achieved a **99% successful verification rate** with unique QR codes.
 
 ### 🎙️ **Speech-to-Text Recognition**
-[cite_start]*Deep learning model for accurate audio transcription[cite: 30].*
-- [cite_start]**Tech:** RNN, LSTM, TensorFlow, Librosa[cite: 30].
-- [cite_start]**Performance:** Reduced Word Error Rate (WER) by **18%** through hyperparameter tuning[cite: 32].
+*Deep learning model for accurate audio transcription.*
+- **Tech:** RNN, LSTM, TensorFlow, Librosa.
+- **Performance:** Reduced Word Error Rate (WER) by **18%** through hyperparameter tuning.
 
 ### 📊 **Vendor Performance Analytics**
-[cite_start]*Data pipeline and dashboard for sales and purchase analysis[cite: 33, 36].*
-- [cite_start]**Tech:** SQL, Python, Power BI[cite: 33].
-- [cite_start]**Impact:** Optimized SQL queries to reduce processing time by **40%** and provided insights projected to improve profit margins by **5-7%**[cite: 36, 37].
+*Data pipeline and dashboard for sales and purchase analysis.*
+- **Tech:** SQL, Python, Power BI.
+- **Impact:** Optimized SQL queries to reduce processing time by **40%** and provided insights projected to improve profit margins by **5-7%**.
 
 ---
 
@@ -67,7 +67,7 @@
 
 ---
 
-##📫 Connect with Me
+## 📫 Connect with Me
 
-- [cite_start]📧 **Email:** [nikunjwadhwa002@gmail.com](mailto:nikunjwadhwa002@gmail.com) [cite: 2]
+- 📧 **Email:** [nikunjwadhwa002@gmail.com](mailto:nikunjwadhwa002@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/nikunjwadhwa/](https://www.linkedin.com/in/nikunjwadhwa/)
