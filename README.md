@@ -4,8 +4,7 @@
 
 I am a final-year student at **Thapar Institute of Engineering and Technology** with a strong foundation in **C++ and Python**. I bridge the gap between complex algorithms and real-world applications, ranging from **AI/ML circuit automation** to **scalable web portals**.
 
-- 🔭 I’m currently working on **ELC Connect**, a centralized full-stack portal for managing university facilities.
-- 🎓 **Education:** B.E. in Electronics and Communication Engineering (CGPA: 7.86).
+- 🎓 **Education:** B.E. in Electronics and Communication Engineering (CGPA: 8.0).
 - 👯 I’m looking to collaborate on **Full Stack Web Development** or **Machine Learning** projects.
 - 🎵 **Fun Fact:** I'm a core member of the **SUR** music society, where I organize concerts and jam sessions!
 
