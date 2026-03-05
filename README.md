@@ -1,88 +1,106 @@
-# 👋 Hi, I'm **Nikunj Wadhwa**
+# Hi, I'm Nikunj Wadhwa 👋
 
-### 💻 Software Developer | Backend Enthusiast | Problem Solver
+> Electronics & Communication Engineer · Full-Stack Developer · Building real products that solve real problems
 
-Welcome to my GitHub!  
-I’m a passionate developer who enjoys building real-world applications, writing clean backend logic, and continuously improving my engineering skills. I like working on meaningful projects that solve practical problems and scale well.
-
----
-
-## 🔭 What I’m Currently Working On
-
-- Building **scalable backend and full-stack applications**
-- Exploring **system design and backend optimization**
-- Applying programming concepts to **real-world problem statements**
-- Improving code quality, structure, and maintainability
+I'm a final year B.E. student at **Thapar Institute of Engineering and Technology**, Patiala. I build full-stack applications, automate workflows with ML, and turn ideas into shipped products. Currently interning at **SprintVisa** architecting a B2B visa agent portal, and independently building **NearMart** — a hyperlocal grocery marketplace.
 
 ---
 
-## 🚀 Projects
+## 🚀 What I'm Building Right Now
 
-### 🛠 Active Work
+### [NearMart](https://github.com/nikunjwadhwa001/nearmart) — Hyperlocal Grocery Marketplace
+> *In active development*
 
-| Project | Tech Stack | Description |
-|--------|-----------|-------------|
-| **Taskflow** | JavaScript | A task management and workflow organization system designed for productivity and clarity. |
-| **Budget_Tracker** | Go | An application to track expenses and manage personal budgets efficiently. |
-| **polls_django** | Python, Django | A polling and survey web application built using Django framework. |
+A mobile-first platform connecting local kirana shops with nearby customers. Shop owners list their inventory, customers discover nearby stores and order directly — no big logistics company in the middle.
+
+**The stack:**
+- **Mobile App** — Flutter (Dart), Riverpod state management
+- **Backend** — Supabase (PostgreSQL + Auth + Realtime)
+- **Admin Dashboard** — React + Vite + Tailwind CSS
+- **Deployment** — Vercel + Supabase free tier
+
+**What's built so far:**
+- ✅ Full PostgreSQL schema — 12 tables with RLS, indexes, constraints
+- ✅ Row Level Security — shop owners only see their own data
+- ✅ Auth trigger — auto-creates user profile on signup
+- ✅ Seeded catalog — 42 products, 47 variants, 15 Indian brands
+- 🔄 Flutter app — in progress
+
+**Why it's interesting:** Platform earns 10–20% commission per order. Designed so local shops can compete with Blinkit and Instamart without needing technical knowledge.
 
 ---
 
-### 🧩 Forked & Exploratory Projects
+## 💼 Experience
 
-| Repository | Focus |
-|----------|-------|
-| **ELC-CONNECT** | Resource and event management platform using modern web technologies. |
-| **Circuit_component_identification_and_layout_generation** | Computer Vision based automation for identifying electronic components and generating layouts. |
-| **VendorAnalysis** | Data analysis project focusing on vendor performance using Jupyter Notebook. |
+**Software Development Intern** · SprintVisa, Chandigarh *(Feb 2026 – Present)*
+- Architecting a secure B2B portal for visa agents with authentication, KYC workflows, and dashboard management
+- Designed RESTful APIs including OTP-based auth, password reset flows, and protected dashboard routes
+
+**ELC Summer Intern – AI Automation for Circuit Design** · TIET, Patiala *(Jun – Jul 2025)*
+- Built a Python ML tool for circuit layout automation — reduced manual design time by ~30%
+- Trained classification models on 500+ schematics, achieving 70% accuracy on component identification
 
 ---
 
-## 💡 Skills & Tools
+## 🛠️ Projects
 
-- **Languages:** Go, Python, JavaScript, TypeScript  
-- **Frameworks & Libraries:** Django, Next.js  
-- **Core Concepts:** Backend Development, REST APIs, Data Structures, Algorithms  
-- **Tools:** Git, GitHub, GitLab, VS Code
+### ELC Connect — Capstone Project *(Jan – Dec 2025)*
+`MERN` `PostgreSQL` `Firebase`
+
+A centralized full-stack portal managing 25+ rooms and facilities in the ELC Activity Building (I-Qube) at TIET, serving 3,500+ students and faculty. **Officially approved by Thapar administration.**
+
+- Designed RESTful APIs with role-based authentication
+- Optimized database schemas for scalable facility management
+- Projected to reduce manual booking and attendance tracking time by 60%
+
+---
+
+### Vendor Performance Analytics *(Jun – Jul 2025)*
+`SQL` `Python` `Power BI`
+
+End-to-end data pipeline ingesting, cleaning, and analyzing 150,000+ rows of multi-table sales and purchase data.
+
+- Optimized SQL queries — reduced data processing time by 40%
+- Built interactive Power BI dashboard driving strategic decisions
+- Projected 5–7% improvement in profit margins on key product lines
+
+---
+
+## 🧠 Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Languages** | JavaScript (ES6+), Python, SQL, C++, Dart, Golang, HTML/CSS |
+| **Frameworks** | Flutter, Django, Gin, REST APIs, MERN Stack |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Supabase |
+| **DevOps & Tools** | Git, GitHub, Docker, VS Code, Jupyter Notebook |
+| **Analytics** | Power BI, Tableau, A/B Testing, Performance Optimization |
+| **Concepts** | DSA, OOP, API Integration, Authentication, Product Thinking |
+
+---
+
+## 🎓 Education
+
+**B.E. Electronics and Communication Engineering** · CGPA 7.99
+Thapar Institute of Engineering and Technology, Patiala *(Aug 2022 – May 2026)*
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikunjwadhwa001&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjwadhwa001&layout=compact&theme=default" height="165"/>
-</p>
+![Nikunj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikunjwadhwa001&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjwadhwa001&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ---
 
-## 🔥 GitHub Activity & Consistency
+## 📬 Let's Connect
 
-### 📈 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikunjwadhwa001&theme=default)
-
-### 📊 Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikunjwadhwa001&theme=github-light)
-
----
-
-## 🧠 Problem Solving & Learning
-
-I actively practice problem-solving and algorithmic thinking to strengthen my fundamentals and logical reasoning.
-
-🔗 **LeetCode:** https://leetcode.com/u/NikunjWadhwa/  
-🔗 **GeeksforGeeks:** https://www.geeksforgeeks.org/user/nwadhwa5kw/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikunj_Wadhwa-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nikunjwadhwa)
+[![GitHub](https://img.shields.io/badge/GitHub-nikunjwadhwa001-181717?style=flat&logo=github)](https://github.com/nikunjwadhwa001)
+[![Email](https://img.shields.io/badge/Email-nikunjwadhwa002@gmail.com-D14836?style=flat&logo=gmail)](mailto:nikunjwadhwa002@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91_9855510056-25D366?style=flat&logo=whatsapp)](tel:+919855510056)
 
 ---
 
-## 📫 Connect With Me
-
-I’m always open to collaboration, internships, and interesting tech discussions.
-
-📧 **Email:** nikunjwadhwa002@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/nikunjwadhwa/  
-🦊 **GitLab:** https://gitlab.com/nikunjwadhwa001
-
----
-
-⭐ *Thanks for visiting my profile — feel free to explore my repositories and connect!*
+*Currently open to internship and project collaboration opportunities.*
