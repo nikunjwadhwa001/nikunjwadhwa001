@@ -8,8 +8,8 @@ I'm a final year B.E. student at **Thapar Institute of Engineering and Technolog
 
 ## 🚀 What I'm Building Right Now
 
-### [NearMart](https://github.com/nikunjwadhwa001/nearmart) — Hyperlocal Grocery Marketplace
-> *In active development*
+### NearMart — Hyperlocal Grocery Marketplace
+> *In active development · Private repository*
 
 A mobile-first platform connecting local kirana shops with nearby customers. Shop owners list their inventory, customers discover nearby stores and order directly — no big logistics company in the middle.
 
@@ -17,16 +17,18 @@ A mobile-first platform connecting local kirana shops with nearby customers. Sho
 - **Mobile App** — Flutter (Dart), Riverpod state management
 - **Backend** — Supabase (PostgreSQL + Auth + Realtime)
 - **Admin Dashboard** — React + Vite + Tailwind CSS
-- **Deployment** — Vercel + Supabase free tier
+- **Deployment** — Vercel + Supabase
 
 **What's built so far:**
 - ✅ Full PostgreSQL schema — 12 tables with RLS, indexes, constraints
 - ✅ Row Level Security — shop owners only see their own data
 - ✅ Auth trigger — auto-creates user profile on signup
 - ✅ Seeded catalog — 42 products, 47 variants, 15 Indian brands
-- 🔄 Flutter app — in progress
+- ✅ Flutter customer app — auth, nearby shops, cart, orders, profile
+- ✅ Order placement — atomic database transaction with commission tracking
+- 🔄 Shop owner app — in progress
 
-**Why it's interesting:** Platform earns 10–20% commission per order. Designed so local shops can compete with Blinkit and Instamart without needing technical knowledge.
+**Why it's interesting:** Platform earns 5% commission per order (or flat ₹499/month subscription). Designed so local kirana shops can compete with Blinkit and Instamart without needing any technical knowledge.
 
 ---
 
