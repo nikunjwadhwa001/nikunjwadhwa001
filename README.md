@@ -2,33 +2,7 @@
 
 > Electronics & Communication Engineer · Full-Stack Developer · Building real products that solve real problems
 
-I'm a final year B.E. student at **Thapar Institute of Engineering and Technology**, Patiala. I build full-stack applications, automate workflows with ML, and turn ideas into shipped products. Currently interning at **SprintVisa** architecting a B2B visa agent portal, and independently building **NearMart** — a hyperlocal grocery marketplace.
-
----
-
-## 🚀 What I'm Building Right Now
-
-### NearMart — Hyperlocal Grocery Marketplace
-> *In active development · Private repository*
-
-A mobile-first platform connecting local kirana shops with nearby customers. Shop owners list their inventory, customers discover nearby stores and order directly — no big logistics company in the middle.
-
-**The stack:**
-- **Mobile App** — Flutter (Dart), Riverpod state management
-- **Backend** — Supabase (PostgreSQL + Auth + Realtime)
-- **Admin Dashboard** — React + Vite + Tailwind CSS
-- **Deployment** — Vercel + Supabase
-
-**What's built so far:**
-- ✅ Full PostgreSQL schema — 12 tables with RLS, indexes, constraints
-- ✅ Row Level Security — shop owners only see their own data
-- ✅ Auth trigger — auto-creates user profile on signup
-- ✅ Seeded catalog — 42 products, 47 variants, 15 Indian brands
-- ✅ Flutter customer app — auth, nearby shops, cart, orders, profile
-- ✅ Order placement — atomic database transaction with commission tracking
-- 🔄 Shop owner app — in progress
-
-**Why it's interesting:** Platform earns 5% commission per order (or flat ₹499/month subscription). Designed so local kirana shops can compete with Blinkit and Instamart without needing any technical knowledge.
+I'm a final year B.E. student at **Thapar Institute of Engineering and Technology**, Patiala. I build full-stack applications, automate workflows with ML, and turn ideas into shipped products. Currently interning at **SprintVisa** architecting a B2B visa agent portal.
 
 ---
 
